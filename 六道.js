@@ -18,9 +18,9 @@ var __LIUDAO_SCRIPT_PROFILE_KEY = "liudao_script_profile";
 var __LIUDAO_CACHED_PROFILE_KEY = "liudao_cached_profile";
 var __LIUDAO_PROFILE_HANDOFF_OK_KEY = "liudao_script_profile_handoff_ok";
 var __LIUDAO_GENERAL_SCRIPT_URL =
-  "https://gitee.com/guardian-of-stability/bring-peace-to-a-country/raw/master/%E5%85%AD%E9%81%93.js";
+  "https://raw.githubusercontent.com/hahyihao/liudao-hotupdate/main/%E5%85%AD%E9%81%93.js";
 var __LIUDAO_OPPO_SCRIPT_URL =
-  "https://raw.giteeusercontent.com/guardian-of-stability/bring-peace-to-a-country/raw/master/%E5%85%AD%E9%81%93OPPO.js";
+  "https://raw.githubusercontent.com/hahyihao/liudao-hotupdate/main/%E5%85%AD%E9%81%93OPPO.js";
 
 function getLiudaoSecureStorage() {
   try {
